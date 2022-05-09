@@ -15,9 +15,9 @@
   opacity: 0;
 }
 .features .box:hover p {
-  color: white;
+  color: #ea651b;
 }
 .features .box:hover i {
-  color: white;
+  color: #823911;
   opacity: 1;
 }

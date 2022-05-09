@@ -56,7 +56,7 @@ button {
 }
 .btn_shadow:hover {
   color: #ea651b;
-  color: white;
+  color: #4d4d4d;
   transform: translateY(-10px);
 }
 .box_shodow {
