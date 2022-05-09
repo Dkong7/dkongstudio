@@ -1,7 +1,7 @@
 {
-  "main.css": "/dkongstudio/static/css/main.d37ff852.chunk.css",
-  "main.js": "/dkongstudio/static/js/main.7d093775.chunk.js",
-  "main.js.map": "/dkongstudio/static/js/main.7d093775.chunk.js.map",
+  "main.css": "/dkongstudio/static/css/main.b4b89175.chunk.css",
+  "main.js": "/dkongstudio/static/js/main.e234932e.chunk.js",
+  "main.js.map": "/dkongstudio/static/js/main.e234932e.chunk.js.map",
   "static/js/1.23172ffd.chunk.js": "/dkongstudio/static/js/1.23172ffd.chunk.js",
   "static/js/1.23172ffd.chunk.js.map": "/dkongstudio/static/js/1.23172ffd.chunk.js.map",
   "static/js/2.0c4de832.chunk.js": "/dkongstudio/static/js/2.0c4de832.chunk.js",
@@ -12,8 +12,8 @@
   "static/media/hero.png": "/dkongstudio/static/media/hero.d540fa29.png",
   "static/media/skill3.png": "/dkongstudio/static/media/skill3.4cbfc2d7.png",
   "static/media/contact1.png": "/dkongstudio/static/media/contact1.5930a183.png",
-  "static/css/main.d37ff852.chunk.css.map": "/dkongstudio/static/css/main.d37ff852.chunk.css.map",
+  "static/css/main.b4b89175.chunk.css.map": "/dkongstudio/static/css/main.b4b89175.chunk.css.map",
   "index.html": "/dkongstudio/index.html",
-  "precache-manifest.60a761191b7788067c1475fcc23e1cf3.js": "/dkongstudio/precache-manifest.60a761191b7788067c1475fcc23e1cf3.js",
+  "precache-manifest.44d63ca29efe4e7e2580394360f9711d.js": "/dkongstudio/precache-manifest.44d63ca29efe4e7e2580394360f9711d.js",
   "service-worker.js": "/dkongstudio/service-worker.js"
 }
