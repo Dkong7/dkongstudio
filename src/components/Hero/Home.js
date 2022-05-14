@@ -23,7 +23,7 @@ const Home = () => {
               </span>
             </h2>
 
-            <p>Utilizo mis habilidades en informatica y mi vision como artista  para crear o simplificar experiencias, Cada nuevo reto es un aprendizaje bla bla bla. No estoy agregando movimiento solo para arreglar las cosas, sino que lo hago de esa manera</p>
+            <p>Utilizo mis habilidades en informática y mi visión como artista para crear o simplificar experiencias que lleven claramente el mensaje que deseo transmitir. </p>
 
             <div className='hero_btn d_flex'>
               <div className='col_1'>

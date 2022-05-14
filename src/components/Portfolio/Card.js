@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import ReactPlayer from "react-player/youtube"
 
 const Card = (props) => {
   const [modal, setModal] = useState(false)
@@ -16,7 +17,7 @@ const Card = (props) => {
     <>
       <div className='box btn_shadow '>
         <div className='img'>
-          <img src={props.image} alt='' onClick={toggleModal} />
+          <img src={props.imagenCard} alt='' onClick={toggleModal} />
         </div>
         <div className='category d_flex'>
           <span onClick={toggleModal}>{props.category}</span>
@@ -39,12 +40,14 @@ const Card = (props) => {
           <div className='modal-content d_flex'>
             <div className='modal-img left'>
               <img src={props.image} alt='' />
+              <ReactPlayer url={props.link} className='video' />
+
             </div>
             <div className='modal-text right'>
-              <span>Featured - Design</span>
+              <span>{props.category}</span>
               <h1>{props.title}</h1>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate distinctio assumenda explicabo veniam temporibus eligendi.</p>
-              <p>Consectetur adipisicing elit. Cupiditate distinctio assumenda. dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!</p>
+              <p>{props.descripcion}</p>
+              <p>{props.descripcion2}</p>
               <div className='button f_flex mtop'>
                 <button className='btn_shadow'>
                   LIKE THIS <i class='far fa-thumbs-up'></i>

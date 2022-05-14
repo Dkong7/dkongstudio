@@ -20,6 +20,9 @@
   border-radius: 10px;
   transition: 0.5s;
 }
+.video{
+  width:auto !important;
+}
 .Portfolio .box .img:hover img {
   transform: scale(1.2);
 }
@@ -28,7 +31,7 @@
   text-transform: uppercase;
 }
 .Portfolio .category span {
-  color: #ff014f;
+  color: #ea651b;
   font-size: 13px;
   letter-spacing: 2px;
   font-weight: 500;
@@ -38,7 +41,7 @@
   right: 30px;
   bottom: 11%;
   transform: rotate(-45deg);
-  color: #ff014f;
+  color: #823911;
   opacity: 0;
   transition: 0.5s;
 }
@@ -51,7 +54,7 @@
   padding-bottom: 30px;
 }
 .Portfolio .box:hover h2 {
-  color: #ff014f;
+  color: #823911;
 }
 .Portfolio .box:hover {
   color: black;
@@ -113,7 +116,7 @@ body.active-modal {
 }
 .modal-text button {
   margin-right: 20px;
-  color: #ff014f;
+  color: #ea651b;
 }
 .modal-text button i {
   margin-left: 10px;

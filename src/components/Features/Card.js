@@ -8,7 +8,6 @@ const Card = (props) => {
         <h2>{props.title}</h2>
         <p>{props.desc}</p>
         <a href='/'>
-          <i className='fas fa-arrow-right'></i>
         </a>
       </div>
     </>
