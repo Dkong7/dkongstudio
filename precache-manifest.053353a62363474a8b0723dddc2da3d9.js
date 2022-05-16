@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a4ff92b4205d7f449b42",
-    "url": "/dkongstudio/static/css/main.14de41f6.chunk.css"
+    "revision": "42253132f05c5f9b6b21",
+    "url": "/dkongstudio/static/css/main.f0ec79ab.chunk.css"
   },
   {
-    "revision": "a4ff92b4205d7f449b42",
-    "url": "/dkongstudio/static/js/main.a4ff92b4.chunk.js"
+    "revision": "42253132f05c5f9b6b21",
+    "url": "/dkongstudio/static/js/main.42253132.chunk.js"
   },
   {
     "revision": "5ee476ae1244b517c019",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/dkongstudio/static/media/contact1.5930a183.png"
   },
   {
-    "revision": "6677a6c8691f1d10cc2813c82862ac11",
+    "revision": "72b2fbddd1408c7b5ae522b2650acf85",
     "url": "/dkongstudio/index.html"
   }
 ];
