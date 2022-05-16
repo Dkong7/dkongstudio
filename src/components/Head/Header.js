@@ -28,7 +28,7 @@ const Header = () => {
                 <a href='#features'>Skills</a>
               </li>
               <li>
-                <a href='#portfolio'>Portfolio</a>
+                <a href='#portfolio'>Portafolio</a>
               </li>
               <li>
                 <a href='#resume'>Resume</a>
