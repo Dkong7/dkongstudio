@@ -56,7 +56,7 @@ button {
 }
 .btn_shadow:hover {
   color: #ea651b;
-  color: #4d4d4d;
+  color: #1111;
   transform: translateY(-10px);
 }
 .box_shodow {
@@ -112,21 +112,4 @@ input {
   outline: none;
   border: 3px solid #e2e8ec;
   margin-bottom: 20px;
-}
-/*----------Footer---------*/
-footer {
-  margin: 20% 0 10% 0;
-}
-footer p {
-  margin-top: 30px;
-}
-/*----------Footer---------*/
-@media (max-width: 768px) {
-  .grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .left,
-  .right {
-    width: 100%;
-  }
 }

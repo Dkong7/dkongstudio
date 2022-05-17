@@ -4,9 +4,27 @@ import hero from "../pic/hero.png"
 import skill1 from "../pic/skill1.png"
 import skill2 from "../pic/skill2.png"
 import skill3 from "../pic/skill3.png"
-import { Typewriter } from "react-simple-typewriter"
+import Typed from "typed.js"
+import {useEffect, useRef} from 'react'
 
 const Home = () => {
+
+  //crear elemento ref
+  const el = useRef(null);
+
+  useEffect(() =>{
+    const typed = new Typed(el.current, {
+      strings: ["  Profesional Audiovisual", "Ingeniero de sonido", "Artista"],
+      startDelay: 100,
+      typeSpeed: 100,
+      backDelay: 50,
+      backSpeed: 200, 
+      smartBackspace: true,
+      showCursor: false,
+      loop: true,
+    })
+  })
+
   return (
     <>
       <section className='hero' id='home'>
@@ -17,9 +35,8 @@ const Home = () => {
               Hola, Soy <span>Diego Diaz</span>
             </h1>
             <h2>
-              un
-              <span>
-                <Typewriter words={[" Profesional Audiovisual.", " Developer.", "Artista"]} loop cursor cursorStyle='⧩' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
+              un #
+              <span ref={el}>
               </span>
             </h2>
 

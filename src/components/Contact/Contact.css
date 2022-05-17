@@ -1,5 +1,9 @@
 .Contact .left {
-  width: 36%;
+  display: none;
+}
+.Contact .contacto {
+  display: flex;
+  justify-content: center; 
 }
 .Contact .right {
   width: 60%;
@@ -32,10 +36,10 @@
 }
 .Contact .right button {
   width: 100%;
-  color: #ff014f;
+  color: #ea651b;
 }
 .Contact .right button:hover {
-  color: white;
+  color: #1111;
 }
 .Contact .right button i {
   margin-left: 10px;

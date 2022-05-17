@@ -44,7 +44,7 @@ const Resume = () => {
             </div>
             <div className='left'>
               <div className='heading'>
-                <h4>2007-2010</h4>
+                <h4>2013 - Actualmente</h4>
                 <h1>Experiencia De Trabajo</h1>
               </div>
 
