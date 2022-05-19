@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "31899c8edeb6c1877e4d",
-    "url": "/dkongstudio/static/css/main.287a9f9b.chunk.css"
+    "revision": "83926b5a7da6ad18943c",
+    "url": "/dkongstudio/static/css/main.65e99317.chunk.css"
   },
   {
-    "revision": "31899c8edeb6c1877e4d",
-    "url": "/dkongstudio/static/js/main.31899c8e.chunk.js"
+    "revision": "83926b5a7da6ad18943c",
+    "url": "/dkongstudio/static/js/main.83926b5a.chunk.js"
   },
   {
-    "revision": "8f1f9bdd8571ce5e7bb7",
-    "url": "/dkongstudio/static/js/1.8f1f9bdd.chunk.js"
+    "revision": "66c154a22e2b7b2b9b37",
+    "url": "/dkongstudio/static/js/1.66c154a2.chunk.js"
   },
   {
-    "revision": "204c310e8fe1f6435ff4",
-    "url": "/dkongstudio/static/js/2.204c310e.chunk.js"
+    "revision": "ed104c0d3ff86653923d",
+    "url": "/dkongstudio/static/js/2.ed104c0d.chunk.js"
   },
   {
-    "revision": "fb3bf9d3bc2c2842c84c",
-    "url": "/dkongstudio/static/js/runtime~main.fb3bf9d3.js"
+    "revision": "289e5e45a08a814358d3",
+    "url": "/dkongstudio/static/js/runtime~main.289e5e45.js"
   },
   {
     "revision": "cf228c34554cb93280447dcfe2321d28",
@@ -88,11 +88,7 @@ self.__precacheManifest = [
     "url": "/dkongstudio/static/media/skillnode.70637588.png"
   },
   {
-    "revision": "5930a183f9be0c913e9d25b1318416f9",
-    "url": "/dkongstudio/static/media/contact1.5930a183.png"
-  },
-  {
-    "revision": "0d2204fcb3bbc88c162c5c6ce193be9a",
+    "revision": "7bbb1757ff2681f47545c72c53879571",
     "url": "/dkongstudio/index.html"
   }
 ];
