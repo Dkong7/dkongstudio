@@ -83,6 +83,9 @@ button {
   letter-spacing: 2px;
   font-weight: 400;
 }
+.titulosPro{
+  color:black;
+}
 .heading h1 {
   font-size: 60px;
   color: #3c3e41;

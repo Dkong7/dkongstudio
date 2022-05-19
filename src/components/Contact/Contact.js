@@ -11,6 +11,8 @@ const Contact = () => {
     emailjs.sendForm('service_icr47wk', 'template_f1vk6xd', e.target, '3xK6nA6_wg4byta3S')
       .then((result) => {
           alert('Formulario Enviado ');
+          e.target.reset();
+
       }, (error) => {
           console.log(error.text);
       });

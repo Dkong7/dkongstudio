@@ -21,15 +21,10 @@ const Card = (props) => {
         </div>
         <div className='category d_flex'>
           <span onClick={toggleModal}>{props.category}</span>
-          <label>
-            <i className='far fa-heart'></i> {props.totalLike}
-          </label>
+
         </div>
         <div className='title'>
           <h2 onClick={toggleModal}>{props.title}</h2>
-          <a href='#popup' className='arrow' onClick={toggleModal}>
-            <i class='fas fa-arrow-right'></i>
-          </a>
         </div>
       </div>
 
@@ -48,14 +43,7 @@ const Card = (props) => {
               <h1>{props.title}</h1>
               <p>{props.descripcion}</p>
               <p>{props.descripcion2}</p>
-              <div className='button f_flex mtop'>
-                <button className='btn_shadow'>
-                  LIKE THIS <i class='far fa-thumbs-up'></i>
-                </button>
-                <button className='btn_shadow'>
-                  VIEW PROJECT<i class='fas fa-chevron-right'></i>
-                </button>
-              </div>
+
               <button className='close-modal btn_shadow' onClick={toggleModal}>
                 <i class='fas fa-times'></i>
               </button>

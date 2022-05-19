@@ -5,7 +5,7 @@ const Card = (props) => {
     <>
       <div className='box btn_shadow'>
         <img src={props.image} alt='' />
-        <h2>{props.title}</h2>
+        <h2 className='titulosPro'>{props.title}</h2>
         <p>{props.desc}</p>
         <a href='/'>
         </a>
