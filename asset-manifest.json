@@ -1,7 +1,7 @@
 {
   "main.css": "/dkongstudio/static/css/main.d1589fa2.chunk.css",
-  "main.js": "/dkongstudio/static/js/main.2367d68a.chunk.js",
-  "main.js.map": "/dkongstudio/static/js/main.2367d68a.chunk.js.map",
+  "main.js": "/dkongstudio/static/js/main.48affd40.chunk.js",
+  "main.js.map": "/dkongstudio/static/js/main.48affd40.chunk.js.map",
   "static/js/1.66c154a2.chunk.js": "/dkongstudio/static/js/1.66c154a2.chunk.js",
   "static/js/1.66c154a2.chunk.js.map": "/dkongstudio/static/js/1.66c154a2.chunk.js.map",
   "static/js/2.a8774dff.chunk.js": "/dkongstudio/static/js/2.a8774dff.chunk.js",
@@ -27,6 +27,6 @@
   "static/media/skillnode.png": "/dkongstudio/static/media/skillnode.70637588.png",
   "static/css/main.d1589fa2.chunk.css.map": "/dkongstudio/static/css/main.d1589fa2.chunk.css.map",
   "index.html": "/dkongstudio/index.html",
-  "precache-manifest.225238fe02c79766663106deca68a170.js": "/dkongstudio/precache-manifest.225238fe02c79766663106deca68a170.js",
+  "precache-manifest.6f628d1003cdb33d6e2705cbf4ad5df2.js": "/dkongstudio/precache-manifest.6f628d1003cdb33d6e2705cbf4ad5df2.js",
   "service-worker.js": "/dkongstudio/service-worker.js"
 }

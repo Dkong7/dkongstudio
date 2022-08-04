@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2367d68a978a715e7e14",
+    "revision": "48affd4005a5b6803cf4",
     "url": "/dkongstudio/static/css/main.d1589fa2.chunk.css"
   },
   {
-    "revision": "2367d68a978a715e7e14",
-    "url": "/dkongstudio/static/js/main.2367d68a.chunk.js"
+    "revision": "48affd4005a5b6803cf4",
+    "url": "/dkongstudio/static/js/main.48affd40.chunk.js"
   },
   {
     "revision": "66c154a22e2b7b2b9b37",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/dkongstudio/static/media/skillnode.70637588.png"
   },
   {
-    "revision": "e0cab632b1885742273d0329cc024902",
+    "revision": "b3e1742b1f75fe57d1e0572e46bb4507",
     "url": "/dkongstudio/index.html"
   }
 ];
