@@ -32,7 +32,7 @@ const ResumeApi = [
     category: "experience",
     year: "A&C Finca Raiz (2016 - 2019) ",
     title: "Generador de Contenidos Digitales",
-    desc: " En la esta inmobiliaría fui el web master de la pagina y el community manager de sus redes, mantenia constantemente la información variable de la página, como información de inmuebles  y contenido promocional para redes sociales.",
+    desc: " En la esta inmobiliaría fui el web master de la paEn esta inmobiliaria fui el web master de la página y el community manager de sus redes, mantenia constantemente la información variable de la página, como información de inmuebles y contenido promocional para redes sociales.",
   },
   {
     id: 6,

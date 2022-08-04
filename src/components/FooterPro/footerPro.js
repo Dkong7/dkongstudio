@@ -35,7 +35,7 @@ const footerPro = () => {
             <div className="SocialLogo" href='#home'>
               <img style={{height:'40px'}} src={Logo} alt='' />
             </div>
-            <small className="WebsiteRights">developed by Dkongstudio.com 	©    {new Date().getFullYear()}</small>
+            <small className="WebsiteRights">Desarrollado por Dkongstudio.com 	©    {new Date().getFullYear()}</small>
 
           </div>
         </div>

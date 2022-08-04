@@ -2,8 +2,8 @@ const data = [
   {
     id: 1,
     image: "https://img.icons8.com/ios/50/000000/video-trimming.png",
-    title: "EdiciÓn De Video",
-    desc: "Conozco una gran diversidad de software y técnicas de edición de video que me permite ser muy versatil al darle forma a la visión de mis clientes.",
+    title: "Edición De Video",
+    desc: "Conozco una gran diversidad de software y técnicas de edición de video que me permite ser muy versátil al darle forma a la visión de mis clientes.",
   },
   {
     id: 2,
@@ -15,13 +15,13 @@ const data = [
     id: 3,
     image: "https://img.icons8.com/ios-filled/50/000000/web.png",
     title: "Desarrollador Web",
-    desc: "Programar es una herramienta fundamental con la que complemento mi visión audiovisual, trabajo con lenguajes como Python, Javascript o C#",
+    desc: "Programar es una herramienta fundamental con la que complemento mi visión audiovisual, trabajo con lenguajes como Python, JavaScript o C#",
   },
   {
     id: 4,
     image: "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-animation-new-media-flaticons-lineal-color-flat-icons.png",
     title: "Ilustración / Animación",
-    desc: "He cultivado el habito de dibujar por muchos años, y lo he complementado con animación cuadro a cuadro, lo cual me permite prototipar y tener más control sobre las piezas audiovisuales",
+    desc: "He cultivado el hábito de dibujar por muchos años, y lo he complementado con animación cuadro a cuadro, lo cual me permite prototipar y tener más control sobre las piezas audiovisuales",
   },
   {
     id: 5,
@@ -33,7 +33,7 @@ const data = [
     id: 6,
     image: "https://img.icons8.com/external-xnimrodx-lineal-xnimrodx/64/000000/external-turntable-event-and-festival-xnimrodx-lineal-xnimrodx.png",
     title: "DJ",
-    desc: " Lo invito a escuchar algo de mi proyecto como Dj en www.mixcloud.com/dkong69/",
+    desc: " Lo invito a escuchar algo de mi proyecto como DJ en www.mixcloud.com/dkong69/",
   },
 ]
 export default data
