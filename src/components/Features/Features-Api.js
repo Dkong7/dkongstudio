@@ -2,7 +2,7 @@ const data = [
   {
     id: 1,
     image: "https://img.icons8.com/ios/50/000000/video-trimming.png",
-    title: "Edicion De Video",
+    title: "EdiciÓn De Video",
     desc: "Conozco una gran diversidad de software y técnicas de edición de video que me permite ser muy versatil al darle forma a la visión de mis clientes.",
   },
   {
@@ -27,13 +27,13 @@ const data = [
     id: 5,
     image: "https://img.icons8.com/external-nawicon-glyph-nawicon/64/000000/external-microphone-communication-nawicon-glyph-nawicon.png",
     title: "Radio",
-    desc: "Cuento con experiencia en radio, produciendo y grabando todo tipo de formatos para radio ",
+    desc: "Cuento con experiencia en radio, produciendo y grabando todo tipo de formatos. ",
   },
   {
     id: 6,
     image: "https://img.icons8.com/external-xnimrodx-lineal-xnimrodx/64/000000/external-turntable-event-and-festival-xnimrodx-lineal-xnimrodx.png",
     title: "DJ",
-    desc: " Dkong Music",
+    desc: " Lo invito a escuchar algo de mi proyecto como Dj en www.mixcloud.com/dkong69/",
   },
 ]
 export default data

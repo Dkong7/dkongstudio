@@ -24,7 +24,7 @@ const Contact = () => {
         <div className='container top'>
           <div className='heading text-center'>
             <h4>CONTACTO</h4>
-            <h1>¿QUE IDEA TIENE?</h1>
+            <h1>¿QUÉ IDEA TIENE?</h1>
           </div>
 
           <div className='content contacto'>
@@ -40,7 +40,7 @@ const Contact = () => {
                     <input type='text' name='fullname'  onChange={InputEvent} />
                   </div>
                   <div className='input row'>
-                    <span>TELEFONO DE CONTACTO </span>
+                    <span>TELÉFONO DE CONTACTO </span>
                     <input type='number' name='phone'  onChange={InputEvent} />
                   </div>
                 </div>

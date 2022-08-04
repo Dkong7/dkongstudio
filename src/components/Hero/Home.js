@@ -14,11 +14,11 @@ const Home = () => {
 
   useEffect(() =>{
     const typed = new Typed(el.current, {
-      strings: ["  Profesional Audiovisual", "Ingeniero de sonido", "Artista"],
-      startDelay: 100,
-      typeSpeed: 100,
+      strings: ["  Artista Audiovisual", "Ingeniero de sonido", "Game Developer"],
+      startDelay: 20,
+      typeSpeed: 50,
       backDelay: 50,
-      backSpeed: 200, 
+      backSpeed: 150, 
       smartBackspace: true,
       showCursor: false,
       loop: true,
@@ -58,7 +58,7 @@ const Home = () => {
                 </div>
               </div>
               <div className='col_1'>
-                <h4>MIS MEJORES PODERES SON</h4>
+                <h4> BEST SKILLS </h4>
                 <button className='btn_shadow'>
                   <img src={skill1} alt='' />
                 </button>

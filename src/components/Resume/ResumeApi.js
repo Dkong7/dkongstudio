@@ -39,7 +39,7 @@ const ResumeApi = [
     category: "experience",
     year: "Orquesta Filarmónica de Bogotá (2020 - 2021) ",
     title: " Ingeniero de sonido",
-    desc: "en la orquesta trabaje como uno de los ingenieros que acompañaria a una de las orquestas para jovenes, mis funciones eran gestionar a los estudiantes, profesores y padres de familia, coordinando pruebas de sonido, para ensallos y conciertos",
+    desc: "En la orquesta trabaje como uno de los ingenieros de sonido, que acompañaria a una de las orquestas para jovenes, mis funciones eran gestionar a los estudiantes, profesores y padres de familia, coordinando pruebas de sonido, para ensayos y conciertos",
   },
 ]
 
